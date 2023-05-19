@@ -1,0 +1,19 @@
+---
+title: "Food"
+image: "IMAGES/PASTA.jfif"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:safiyya.fahma_20@greenoak.bham.sch.uk"
+
+output:
+  postcards::solana
+site: distill::distill_website
+---
+
+## Introduction
+
+Hi, in this website we will be looking at food :)

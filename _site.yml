@@ -1,0 +1,14 @@
+name: "."
+title: "Food"
+description: |
+  Food
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Food"
+      href: index.html
+    - text: "images"
+      href: images.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-19T11:04:41+00:00"
+    },
+    {
+      "path": "images.html",
+      "title": "Foods",
+      "description": "Food makes you feel better!\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-05-19T11:04:42+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Food",
+      "author": [],
+      "contents": "\n\n          \n          \n          Food\n          \n          \n          Food\n          images\n          About\n          ☰\n          \n          \n      \n        \n          Food\n          \n            \n                \n                  \n                     Twitter\n                  \n                \n              \n                            \n                \n                  \n                     GitHub\n                  \n                \n              \n                            \n                \n                  \n                     Contact Us\n                  \n                \n              \n                          \n        \n\n        \n          \n      \n      \n        \n          \n          Introduction\n          Hi, in this website we will be looking at food :)\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Food\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Hi, in this website we will be looking at food :)\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-05-19T11:04:43+00:00"
+    }
+  ],
+  "collections": []
+}
