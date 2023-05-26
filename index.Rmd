@@ -16,4 +16,4 @@ site: distill::distill_website
 
 ## Introduction
 
-Hi, in this website we will be looking at food :)
+Hi, in this website we will be looking at food 🍕😋
