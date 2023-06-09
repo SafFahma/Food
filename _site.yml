@@ -3,6 +3,7 @@ title: "Food"
 description: |
   Food
 output_dir: "docs"
+theme: "my_theme.css"
 navbar:
   right:
     - text: "Food"
