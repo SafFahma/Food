@@ -1,14 +1,14 @@
 name: "."
-title: "Food"
+title: "Home"
 description: |
   Food
 output_dir: "docs"
-theme: "my_theme.css"
+theme: "my-theme.css"
 navbar:
   right:
-    - text: "Food"
+    - text: "Home"
       href: index.html
-    - text: "images"
+    - text: "How to make pancakes"
       href: images.html
     - text: "About"
       href: about.html

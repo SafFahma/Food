@@ -1,6 +1,6 @@
 ---
 title: "Food"
-image: "IMAGES/PASTA.jfif"
+image: "IMAGES/fastfood.jfif"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: 'https://twitter.com/R_Girls_School target="_blank"'

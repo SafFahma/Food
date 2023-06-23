@@ -1,7 +1,8 @@
 ---
-title: "Foods"
+title: "HOW TO MAKE PANCAKES!"
 description: |
-  Food makes you feel better!
+  here is an easy pancake recipe
+image: "IMAGES/pancakes.jfif"
 
 output: distill::distill_article
 ---
@@ -10,4 +11,21 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Add more info here
+![](IMAGES/pancakes.jfif)
+
+
+
+Our Step-by-Step Method for the Fluffiest Pancakes
+These simple pancakes come together fast! They are perfect for kids (if you scroll through the reviews so many our of readers makes these with their kids and sometimes the kids even make them!) To make them follow these easy steps:
+
+1.Whisk dry ingredients together
+
+2.Melt butter and warm milk (we use the microwave)
+
+3.Whisk wet ingredients together
+
+4.Combine the dry and wet ingredients
+
+5.Cook on a hot buttered skillet
+
+6.Enjoy!
