@@ -90,27 +90,24 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_meta_tags-->
   <title>Home: HOW TO MAKE PANCAKES!</title>
 
-  <meta property="description" itemprop="description" content="here is an easy pancake recipe"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Home: HOW TO MAKE PANCAKES!"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="here is an easy pancake recipe"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Home"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
   <meta property="twitter:title" content="Home: HOW TO MAKE PANCAKES!"/>
-  <meta property="twitter:description" content="here is an easy pancake recipe"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","image","output"]}},"value":[{"type":"character","attributes":{},"value":["HOW TO MAKE PANCAKES!"]},{"type":"character","attributes":{},"value":["here is an easy pancake recipe\n"]},{"type":"character","attributes":{},"value":["IMAGES/pancakes.jfif"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","image","output"]}},"value":[{"type":"character","attributes":{},"value":["HOW TO MAKE PANCAKES!"]},{"type":"NULL"},{"type":"character","attributes":{},"value":["IMAGES/pancakes.jfif"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2151,7 +2148,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
   </style>
-  <style type="text/css">
+  <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
   /* Edit the CSS properties in this file to create a custom
      Distill theme. Only edit values in the right column
      for each row; values shown are the CSS defaults.
@@ -2166,7 +2164,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   html {
     /*-- Main font sizes --*/
-    --title-size:      50px;
+    --title-size:      40px;
     --body-size:       1.06rem;
     --code-size:       14px;
     --aside-size:      12px;
@@ -2178,9 +2176,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --aside-color:     rgba(0, 0, 0, 0.6);
     --fig-cap-color:   rgba(0, 0, 0, 0.6);
     /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    sans-serif;
+    --heading-font:    Lobster;
     --mono-font:       monospace;
-    --body-font:       sans-serif;
+    --body-font:      Lobster;
     --navbar-font:     sans-serif;  /* websites + blogs only */
   }
 
@@ -2210,11 +2208,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* These properties only apply to Distill sites and blogs  */
 
   .distill-site-header {
-    --title-size:       18px;
+    --title-size:       25px;
     --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
+    --text-size:        20px;
     --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
+    --bkgd-color:       #a77464;
   }
 
   .distill-site-footer {
@@ -2402,7 +2400,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"HOW TO MAKE PANCAKES!","description":"here is an easy pancake recipe","authors":[]}
+{"title":"HOW TO MAKE PANCAKES!","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2415,7 +2413,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="images.html">How to make pancakes</a>
-<a href="about.html">About</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2428,14 +2425,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h1>HOW TO MAKE PANCAKES!</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>here is an easy pancake recipe</p></p>
+
 </div>
 
 
 <div class="d-article">
-<p><img src="IMAGES/pancakes.jfif" /></p>
+<p><img src="IMAGES/pancakes.jfif" style="width:50.0%" /></p>
 <p>Our Step-by-Step Method for the Fluffiest Pancakes
-These simple pancakes come together fast! They are perfect for kids (if you scroll through the reviews so many our of readers makes these with their kids and sometimes the kids even make them!) To make them follow these easy steps:</p>
+These simple pancakes come together fast! They are perfect for kids. To make them follow these easy steps:</p>
 <p>1.Whisk dry ingredients together</p>
 <p>2.Melt butter and warm milk (we use the microwave)</p>
 <p>3.Whisk wet ingredients together</p>

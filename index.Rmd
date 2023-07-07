@@ -16,4 +16,6 @@ site: distill::distill_website
 
 ## Introduction
 
-Hi, in this website we will be looking at food 🍕😋
+Hi, in this website we will explore the best recipes to make the most delicious foods 🍕😋
+
+Hope you enjoy !!!

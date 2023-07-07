@@ -1,7 +1,6 @@
 ---
 title: "HOW TO MAKE PANCAKES!"
 description: |
-  here is an easy pancake recipe
 image: "IMAGES/pancakes.jfif"
 
 output: distill::distill_article
@@ -11,12 +10,12 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](IMAGES/pancakes.jfif)
+![](IMAGES/pancakes.jfif){width=50%}
 
 
 
 Our Step-by-Step Method for the Fluffiest Pancakes
-These simple pancakes come together fast! They are perfect for kids (if you scroll through the reviews so many our of readers makes these with their kids and sometimes the kids even make them!) To make them follow these easy steps:
+These simple pancakes come together fast! They are perfect for kids. To make them follow these easy steps:
 
 1.Whisk dry ingredients together
 
